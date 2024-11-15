@@ -2,7 +2,7 @@
 
 Knight's Adventure is 2D side-scroller platformer game made with Unity for PC 
 
-This game is a project that I made to fulfill the Mid-Semester Exam Assignment for Introduction to Game Programming for the IT program in 2024. In this first serious game, I designed it using the Unity game engine, Sprite Sheets were taken from open sources from the internet, but it doesn't matter for personal use.
+This game is a project that I created to fulfill the Mid-Semester Exam assignment for the Introduction to Game Programming course in the IT field in 2024 using the Unity Engine version 2020.3.12f1. This game is a hidden object game designed with the aim of training basic game programming skills and understanding in using Unity as the main development tool
 
 # Table of Contents
 <details open>
