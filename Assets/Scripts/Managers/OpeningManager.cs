@@ -60,6 +60,6 @@ public class OpeningManager : MonoBehaviour
 
     public void SocialButton()
     {
-        Application.OpenURL("https://github.com/Purnamasari13/Game"); 
+        Application.OpenURL("https://github.com/Purnamasari13/Knights-Adventure"); 
     }
 }
